@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-cout<<"aman randi"<<endl;
+cout<<"aman randi madarchod "<<endl;
 }
